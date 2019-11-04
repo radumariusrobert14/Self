@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Self</string>
+
+    <string name="title_text">My Journal.</string>
+    <string name="journal_what_are_you_thinking_text">What\'s on your mind?</string>
+    <string name="get_started_text">Get Started</string>
+    <string name="email_hint">E-mail</string>
+    <string name="password_hint">Password</string>
+    <string name="login_text">LOGIN</string>
+    <string name="or_text">Or</string>
+    <string name="sign_up_text">CREATE NEW ACCOUNT</string>
+    <string name="username_hint">Username</string>
+    <string name="post_title">Title</string>
+    <string name="post_description">Your thoughts...</string>
+    <string name="post_save_journal_button_text">SAVE</string>
+    <string name="menu_title">Add Thoughts</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="write_a_journal_entry">Write a journal entry by clicking the "+" icon</string>
+</resources>
